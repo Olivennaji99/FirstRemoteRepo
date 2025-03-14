@@ -25,5 +25,6 @@ echo "I am a Devops Engineering student"
 ##
 #
 #playing around with the file as for now
-#It's fun learn this skill
+#It's fun learning this skill
 #I love my skill
+#Proud of my quick progress
